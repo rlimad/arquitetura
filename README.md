@@ -13,7 +13,7 @@
 | Matheus | GRR... | Apoio na montagem da Unidade de Controle |
 | Natan | GRR.. | Revisão da ISA e documentação do conjunto de instruções |
 | Pedro | GRR... | Apoio na simulação e verificação dos sinais de controle |
-| Rafael | GRR20244378 | Apoio nas análises e validação da lógica de controle |
+| Rafael Lima Dias | GRR20244378 | Apoio nas análises e validação da lógica de controle |
 
 
 ---
