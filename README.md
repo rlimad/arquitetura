@@ -7,7 +7,8 @@
 
 | Nome Completo | Responsável por |
 |----------------|-----------------|
-| João Matheus | --- |
+| João  | --- |
+| Matheus  | --- |
 | Natan | --- |
 | Pedro | --- |
 | Rafael | --- |
