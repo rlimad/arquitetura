@@ -9,11 +9,11 @@
 
 | Nome Completo | GRR | Responsável por |
 |----------------|:----:|-----------------|
-| João | GRR... | Implementação inicial da ISA REDUX V e integração dos módulos (ULA, Banco de Registradores, Memórias, Unidade de Controle) |
-| Matheus | GRR... | Apoio na montagem da Unidade de Controle |
-| Natan | GRR.. | Revisão da ISA e documentação do conjunto de instruções |
-| Pedro | GRR... | Apoio na simulação e verificação dos sinais de controle |
-| Rafael Lima Dias | GRR20244378 | Apoio nas análises e validação da lógica de controle |
+| João | GRR... | --- |
+| Matheus | GRR... | --- |
+| Natan | GRR.. | --- |
+| Pedro | GRR... | --- |
+| Rafael Lima Dias | GRR20244378 | --- |
 
 
 ---
